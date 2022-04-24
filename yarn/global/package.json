@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-video": "^2.6.6",
+    "diagnostic-languageserver": "^1.14.2"
+  }
+}
