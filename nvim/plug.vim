@@ -19,9 +19,13 @@ if has("nvim")
   Plug 'windwp/nvim-autopairs'
   Plug 'windwp/nvim-ts-autotag'
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
+  Plug 'lambdalisue/nerdfont.vim'
   Plug 'lambdalisue/fern-renderer-nerdfont.vim'
   Plug 'lambdalisue/glyph-palette.vim'
   Plug 'lambdalisue/fern-git-status.vim'
+  Plug 'yuki-yano/fern-preview.vim'
+  Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+  Plug 'junegunn/fzf.vim'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }
