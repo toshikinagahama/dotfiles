@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 7.0.0, 2022-04-10T16:16:22. -->
+<!-- Written by QtCreator 7.0.0, 2022-05-03T20:34:50. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -41,8 +41,8 @@
    <value type="QString" key="PE.Profile.Name">Qt %{Qt:Version} for macOS</value>
    <value type="bool" key="PE.Profile.SDK">true</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">PE.Profile.DeviceType</value>
     <value type="QString">QtSupport.QtInformation</value>
+    <value type="QString">PE.Profile.DeviceType</value>
    </valuelist>
   </valuemap>
  </data>

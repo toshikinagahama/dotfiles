@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 7.0.0, 2022-04-10T16:21:41. -->
+<!-- Written by QtCreator 7.0.0, 2022-05-03T20:35:00. -->
 <qtcreator>
  <data>
   <variable>CascadeSetActive</variable>
@@ -12,7 +12,7 @@
  </data>
  <data>
   <variable>EditorSettings</variable>
-  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAIAAACmAC8AVQBzAGUAcgBzAC8AdABvAHMAaABpAGsAaQBuAGEAZwBhAGgAYQBtAGEALwBRAHQALwBFAHgAYQBtAHAAbABlAHMALwBRAHQALQA2AC4AMgAuADQALwBkAGUAbQBvAHMALwBjAG8AZgBmAGUAZQAvAEEAcABwAGwAaQBjAGEAdABpAG8AbgBGAGwAbwB3AEYAbwByAG0ALgB1AGkALgBxAG0AbAAAAAwAAAAAJAAAAAIAAAAwAAAAAAAAAAEAAAABAAAAAQAAAAEAAABgAAAAhwAAAIIALwBVAHMAZQByAHMALwB0AG8AcwBoAGkAawBpAG4AYQBnAGEAaABhAG0AYQAvAFEAdAAvAEUAeABhAG0AcABsAGUAcwAvAFEAdAAtADYALgAyAC4ANAAvAGQAZQBtAG8AcwAvAGMAbwBmAGYAZQBlAC8AbQBhAGkAbgAuAGMAcABwAAAADAAAAAAkAAAAAgAAAAAAAAAAAAAAAQAAAAEAAAABAAAAAAAAAAAAAABBAAAAAwAAAKYALwBVAHMAZQByAHMALwB0AG8AcwBoAGkAawBpAG4AYQBnAGEAaABhAG0AYQAvAFEAdAAvAEUAeABhAG0AcABsAGUAcwAvAFEAdAAtADYALgAyAC4ANAAvAGQAZQBtAG8AcwAvAGMAbwBmAGYAZQBlAC8AQQBwAHAAbABpAGMAYQB0AGkAbwBuAEYAbABvAHcARgBvAHIAbQAuAHUAaQAuAHEAbQBsAAAANABBAHAAcABsAGkAYwBhAHQAaQBvAG4ARgBsAG8AdwBGAG8AcgBtAC4AdQBpAC4AcQBtAGwAAAAXUW1sSlNFZGl0b3IuUU1MSlNFZGl0b3IAAAAAggAvAFUAcwBlAHIAcwAvAHQAbwBzAGgAaQBrAGkAbgBhAGcAYQBoAGEAbQBhAC8AUQB0AC8ARQB4AGEAbQBwAGwAZQBzAC8AUQB0AC0ANgAuADIALgA0AC8AZABlAG0AbwBzAC8AYwBvAGYAZgBlAGUALwBtAGEAaQBuAC4AYwBwAHAAAAAQAG0AYQBpAG4ALgBjAHAAcAAAABNDcHBFZGl0b3IuQysrRWRpdG9yAAAAAIQALwBVAHMAZQByAHMALwB0AG8AcwBoAGkAawBpAG4AYQBnAGEAaABhAG0AYQAvAFEAdAAvAEUAeABhAG0AcABsAGUAcwAvAFEAdAAtADYALgAyAC4ANAAvAC8AZABlAG0AbwBzAC8AYwBvAGYAZgBlAGUALwBtAGEAaQBuAC4AcQBtAGwAAAAQAG0AYQBpAG4ALgBxAG0AbAAAABdRbWxKU0VkaXRvci5RTUxKU0VkaXRvcgAAAAEVAAAADWN1cnJlbnRlZGl0b3IAAACmAC8AVQBzAGUAcgBzAC8AdABvAHMAaABpAGsAaQBuAGEAZwBhAGgAYQBtAGEALwBRAHQALwBFAHgAYQBtAHAAbABlAHMALwBRAHQALQA2AC4AMgAuADQALwBkAGUAbQBvAHMALwBjAG8AZgBmAGUAZQAvAEEAcABwAGwAaQBjAGEAdABpAG8AbgBGAGwAbwB3AEYAbwByAG0ALgB1AGkALgBxAG0AbAAAAC4AUQBtAGwASgBTAEUAZABpAHQAbwByAC4AUQBNAEwASgBTAEUAZABpAHQAbwByAAAAJAAAAAIAAAAwAAAAAAAAAAEAAAABAAAAAQAAAAEAAABgAAAAhwAAAAA=</value>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAEAAACQAC8AVQBzAGUAcgBzAC8AdABvAHMAaABpAGsAaQBuAGEAZwBhAGgAYQBtAGEALwAuAGwAbwBjAGEAbAAvAHMAaABhAHIAZQAvAG4AdgBpAG0ALwBwAGwAdQBnAGcAZQBkAC8AYwBvAGMALgBuAHYAaQBtAC8AYgB1AGkAbABkAC8AaQBuAGQAZQB4AC4AagBzAAAADAAAAAAgAAAAAgAAAAAAAAAAAAAACwAAAAEAAAAAAAAAAAAAADIAAAABAAAAkAAvAFUAcwBlAHIAcwAvAHQAbwBzAGgAaQBrAGkAbgBhAGcAYQBoAGEAbQBhAC8ALgBsAG8AYwBhAGwALwBzAGgAYQByAGUALwBuAHYAaQBtAC8AcABsAHUAZwBnAGUAZAAvAGMAbwBjAC4AbgB2AGkAbQAvAGIAdQBpAGwAZAAvAGkAbgBkAGUAeAAuAGoAcwAAABAAaQBuAGQAZQB4AC4AagBzAAAAF1FtbEpTRWRpdG9yLlFNTEpTRWRpdG9yAAAAAPsAAAANY3VycmVudGVkaXRvcgAAAJAALwBVAHMAZQByAHMALwB0AG8AcwBoAGkAawBpAG4AYQBnAGEAaABhAG0AYQAvAC4AbABvAGMAYQBsAC8AcwBoAGEAcgBlAC8AbgB2AGkAbQAvAHAAbAB1AGcAZwBlAGQALwBjAG8AYwAuAG4AdgBpAG0ALwBiAHUAaQBsAGQALwBpAG4AZABlAHgALgBqAHMAAAAuAFEAbQBsAEoAUwBFAGQAaQB0AG8AcgAuAFEATQBMAEoAUwBFAGQAaQB0AG8AcgAAACAAAAACAAAAAAAAAAAAAAALAAAAAQAAAAAAAAAAAAAAMgAAAAA=</value>
  </data>
  <data>
   <variable>ProjectDependencies</variable>
@@ -20,14 +20,7 @@
  </data>
  <data>
   <variable>ProjectList</variable>
-  <valuelist type="QVariantList">
-   <value type="QString">/Users/toshikinagahama/Downloads/viewer_ver4/viewer_ver4.pro</value>
-   <value type="QString">/Users/toshikinagahama/Qt/Examples/Qt-6.2.4//demos/coffee/coffee.pro</value>
-  </valuelist>
- </data>
- <data>
-  <variable>StartupProject</variable>
-  <value type="QString">/Users/toshikinagahama/Qt/Examples/Qt-6.2.4//demos/coffee/coffee.pro</value>
+  <valuelist type="QVariantList"/>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -39,28 +32,7 @@
  </data>
  <data>
   <variable>value-ProjectTree.ExpandData</variable>
-  <valuelist type="QVariantList">
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/toshikinagahama/Qt/Examples/Qt-6.2.4/demos/coffee</value>
-    <value type="QString">Sources</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/toshikinagahama/Qt/Examples/Qt-6.2.4/demos/coffee/qml.qrc/</value>
-    <value type="QString">/</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/toshikinagahama/Qt/Examples/Qt-6.2.4/demos/coffee</value>
-    <value type="QString">coffee</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/toshikinagahama/Qt/Examples/Qt-6.2.4/demos/coffee</value>
-    <value type="QString">Resources</value>
-   </valuelist>
-   <valuelist type="QVariantList">
-    <value type="QString">/Users/toshikinagahama/Qt/Examples/Qt-6.2.4/demos/coffee/qml.qrc</value>
-    <value type="QString">qml.qrc</value>
-   </valuelist>
-  </valuelist>
+  <valuelist type="QVariantList"/>
  </data>
  <data>
   <variable>value-TaskWindow.Categories</variable>

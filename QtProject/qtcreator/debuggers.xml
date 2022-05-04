@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorDebuggers>
-<!-- Written by QtCreator 7.0.0, 2022-04-10T16:16:22. -->
+<!-- Written by QtCreator 7.0.0, 2022-05-03T20:34:50. -->
 <qtcreator>
  <data>
   <variable>DebuggerItem.0</variable>
@@ -15,7 +15,7 @@
    <value type="QString" key="DisplayName">システムの LLDB (パス:/Library/Developer/CommandLineTools/usr/bin/lldb)</value>
    <value type="int" key="EngineType">256</value>
    <value type="QString" key="Id">{324216a1-4fc4-4817-b1c5-c11209d830ca}</value>
-   <value type="QDateTime" key="LastModified">2022-02-25T15:09:40.000</value>
+   <value type="QDateTime" key="LastModified">2022-03-31T12:55:59.000</value>
    <value type="QString" key="Version">1316.0.9.41</value>
    <value type="QString" key="WorkingDirectory"></value>
   </valuemap>
@@ -33,7 +33,7 @@
    <value type="QString" key="DisplayName">システムの LLDB (パス:/usr/bin/lldb)</value>
    <value type="int" key="EngineType">256</value>
    <value type="QString" key="Id">{8bad1475-db27-45c6-b651-c76bb54501bb}</value>
-   <value type="QDateTime" key="LastModified">2022-04-01T16:55:48.000</value>
+   <value type="QDateTime" key="LastModified">2022-04-22T15:35:24.000</value>
    <value type="QString" key="Version">1316.0.9.41</value>
    <value type="QString" key="WorkingDirectory"></value>
   </valuemap>

@@ -182,4 +182,6 @@ nnoremap <silent> <leader>r :Rg<CR>
 
 let g:fern#default_hidden=1
 
+command! -nargs=0 Format :call CocAction('format')
+
 " vim: set foldmethod=marker foldlevel=0:
