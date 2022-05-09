@@ -11,13 +11,13 @@ if has("nvim")
   Plug 'hoob3rt/lualine.nvim'
   Plug 'lambdalisue/fern.vim'
   Plug 'Shougo/defx.nvim', { 'do': ':UpdateRemotePlugins' }
-  Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate' }
+  "Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'kyazdani42/nvim-web-devicons'
   Plug 'nvim-lua/popup.nvim'
   Plug 'nvim-lua/plenary.nvim'
-  Plug 'nvim-telescope/telescope.nvim'
+  "Plug 'nvim-telescope/telescope.nvim'
   Plug 'windwp/nvim-autopairs'
-  Plug 'windwp/nvim-ts-autotag'
+  "Plug 'windwp/nvim-ts-autotag'
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
   Plug 'lambdalisue/nerdfont.vim'
   Plug 'lambdalisue/fern-renderer-nerdfont.vim'
@@ -26,6 +26,14 @@ if has("nvim")
   Plug 'yuki-yano/fern-preview.vim'
   Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
   Plug 'junegunn/fzf.vim'
+  Plug 'lifepillar/vim-solarized8'
+  Plug 'jam1garner/vim-code-monokai'
+  Plug 'crusoexia/vim-monokai'
+  Plug 'pangloss/vim-javascript', { 'for': 'javascript' }
+  Plug 'crusoexia/vim-javascript-lib'
+  Plug 'leafgarland/typescript-vim'
+  Plug 'peitalin/vim-jsx-typescript'
+  Plug 'maxmellon/vim-jsx-pretty'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }

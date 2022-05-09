@@ -15,15 +15,6 @@
           "directory": "/tmp/ccls"
         }
       }
-    },
-    "flow": {
-      "command": "flow",
-      "args": ["lsp"],
-      "filetypes": ["javascript", "javascriptreact"],
-      "initializationOptions": {},
-      "requireRootPattern": true,
-      "settings": {},
-      "rootPatterns": [".flowconfig"]
     }
   },
   "eslint.autoFixOnSave": true,
@@ -34,7 +25,6 @@
     "typescriptreact"
   ],
   "eslint.autoFix": true,
-  "tsserver.enableJavascript": false,
   "coc.preferences.formatOnSaveFiletypes": [
     "javascript",
     "javascriptreact",
@@ -43,7 +33,8 @@
     "json",
     "graphql",
     "css",
-    "markdown"
+    "markdown",
+    "go"
   ],
   "tailwindCSS.trace.server": "verbose",
   "tailwindCSS.emmetCompletions": true

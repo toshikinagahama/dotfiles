@@ -37,6 +37,8 @@ goenv init - | source
 set -g GOPATH $HOME/go
 set -gx PATH $GOPATH/bin $PATH
 
+# Rust
+set -gx PATH ~/.cargo/bin $PATH
 
 # Pyenv
 set -x PYENV_ROOT $HOME/.pyenv/shims
