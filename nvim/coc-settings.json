@@ -17,14 +17,6 @@
       }
     }
   },
-  "eslint.autoFixOnSave": true,
-  "eslint.filetypes": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact"
-  ],
-  "eslint.autoFix": true,
   "coc.preferences.formatOnSaveFiletypes": [
     "javascript",
     "javascriptreact",
@@ -35,7 +27,5 @@
     "css",
     "markdown",
     "go"
-  ],
-  "tailwindCSS.trace.server": "verbose",
-  "tailwindCSS.emmetCompletions": true
+  ]
 }

@@ -10,7 +10,6 @@ Plug 'tpope/vim-rhubarb'
 if has("nvim")
   Plug 'hoob3rt/lualine.nvim'
   Plug 'lambdalisue/fern.vim'
-  Plug 'Shougo/defx.nvim', { 'do': ':UpdateRemotePlugins' }
   Plug 'kyazdani42/nvim-web-devicons'
   Plug 'nvim-lua/popup.nvim'
   Plug 'nvim-lua/plenary.nvim'
