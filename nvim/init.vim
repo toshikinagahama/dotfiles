@@ -190,4 +190,5 @@ let g:fern#default_hidden=1
 
 command! -nargs=0 Format :call CocAction('format')
 
+let g:indent_guides_enable_on_vim_startup = 1
 " vim: set foldmethod=marker foldlevel=0:

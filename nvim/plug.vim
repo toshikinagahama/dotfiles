@@ -11,13 +11,9 @@ if has("nvim")
   Plug 'hoob3rt/lualine.nvim'
   Plug 'lambdalisue/fern.vim'
   Plug 'Shougo/defx.nvim', { 'do': ':UpdateRemotePlugins' }
-  "Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'kyazdani42/nvim-web-devicons'
   Plug 'nvim-lua/popup.nvim'
   Plug 'nvim-lua/plenary.nvim'
-  "Plug 'nvim-telescope/telescope.nvim'
-  Plug 'windwp/nvim-autopairs'
-  "Plug 'windwp/nvim-ts-autotag'
   Plug 'neoclide/coc.nvim', {'branch': 'release'}
   Plug 'lambdalisue/nerdfont.vim'
   Plug 'lambdalisue/fern-renderer-nerdfont.vim'
@@ -34,6 +30,10 @@ if has("nvim")
   Plug 'leafgarland/typescript-vim'
   Plug 'peitalin/vim-jsx-typescript'
   Plug 'maxmellon/vim-jsx-pretty'
+  Plug 'nathanaelkane/vim-indent-guides'
+  Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate' }
+  Plug 'windwp/nvim-autopairs'
+  Plug 'windwp/nvim-ts-autotag'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }
