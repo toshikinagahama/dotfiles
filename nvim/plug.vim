@@ -33,6 +33,7 @@ if has("nvim")
   Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate' }
   Plug 'windwp/nvim-autopairs'
   Plug 'windwp/nvim-ts-autotag'
+  Plug 'mattn/emmet-vim'
 endif
 
 Plug 'groenewege/vim-less', { 'for': 'less' }

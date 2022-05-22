@@ -27,5 +27,6 @@
     "css",
     "markdown",
     "go"
-  ]
+  ],
+  "snippets.userSnippetsDirectory": "~/.config/nvim/snippets"
 }
