@@ -37,6 +37,9 @@ goenv init - | source
 set -g GOPATH $HOME/go
 set -gx PATH $GOPATH/bin $PATH
 
+# Flutter
+set -gx PATH $HOME/flutter/bin $PATH
+
 # Rust
 set -gx PATH ~/.cargo/bin $PATH
 
